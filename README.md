@@ -1,3 +1,3 @@
 # Leetcode-solutions
-In this repo I uplaod my solutions to leetcode problems
+In this repo I upload my solutions to leetcode problems
 
